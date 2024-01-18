@@ -7,7 +7,8 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <AdditionalFiles Include="*.txt" />
+        <AdditionalFiles Include="**\*.txt" />
+        <EmbeddedResource Include="**\*.txt" />
     </ItemGroup>
 
     <ItemGroup>
