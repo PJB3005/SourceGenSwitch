@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSourceGen", "TestSource
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{0EDEC4F4-D4E6-40C7-A9A0-1E321A99D601}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAvalonia", "TestAvalonia\TestAvalonia.csproj", "{25E79411-EE1C-48E2-8D57-9111946119FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{0EDEC4F4-D4E6-40C7-A9A0-1E321A99D601}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EDEC4F4-D4E6-40C7-A9A0-1E321A99D601}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EDEC4F4-D4E6-40C7-A9A0-1E321A99D601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25E79411-EE1C-48E2-8D57-9111946119FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25E79411-EE1C-48E2-8D57-9111946119FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25E79411-EE1C-48E2-8D57-9111946119FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25E79411-EE1C-48E2-8D57-9111946119FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
