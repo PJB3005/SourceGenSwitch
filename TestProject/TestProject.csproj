@@ -13,4 +13,8 @@
     <ItemGroup>
         <ProjectReference Include="..\TestSourceGen\TestSourceGen.csproj" OutputItemType="Analyzer" ReferenceOutputAssembly="false"/>
     </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Dummy\" />
+    </ItemGroup>
 </Project>
