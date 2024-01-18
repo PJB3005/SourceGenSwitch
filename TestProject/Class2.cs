@@ -7,4 +7,9 @@ public partial class Class2
     {
         Foo();
     }
+
+    public static void Main()
+    {
+        new Class2();
+    }
 }
