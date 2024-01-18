@@ -8,7 +8,6 @@
 
     <ItemGroup>
         <AdditionalFiles Include="Class1.txt" />
-        <AdditionalFiles Include="Class2.txt" />
     </ItemGroup>
 
     <ItemGroup>
